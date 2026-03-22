@@ -1,9 +1,0 @@
-<Project>
-  <Project.ExportOptions />
-  <Panel>
-    <Panel Opacity="0.3" Background="#FF0000FF" />
-    <Button HorizontalAlignment="Center" VerticalAlignment="Center">
-      <Label Text="Test" />
-    </Button>
-  </Panel>
-</Project>
